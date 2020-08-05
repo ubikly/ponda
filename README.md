@@ -1,3 +1,3 @@
 # ponda
 
-by @ejmudi
+by two people.
