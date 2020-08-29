@@ -1,4 +1,3 @@
 # ponda
 
-by two people.
-second test commit
+Test patch
