@@ -1,5 +1,5 @@
 # ponda
 
-dev branch edit.
-by two people.
-second test commit.
+Test patch
+
+Some addition to OSS contributor's PR.
